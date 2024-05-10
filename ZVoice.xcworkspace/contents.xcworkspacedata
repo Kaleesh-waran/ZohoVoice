@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ZVoice.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:"
+      name = "Localizable.strings">
+      <FileRef
+         location = "group:en.lproj/Localizable.strings">
+      </FileRef>
+      <FileRef
+         location = "group:en-IN.lproj/Localizable.strings">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

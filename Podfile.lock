@@ -1,0 +1,46 @@
+PODS:
+  - Cosmos (23.0.0)
+  - Fastis (2.3.0):
+    - JTAppleCalendar (~> 8.0.0)
+    - PrettyCards (~> 1.0.0)
+  - JTAppleCalendar (8.0.5)
+  - libPhoneNumber-iOS (0.9.15)
+  - PrettyCards (1.0.5)
+  - SSOKit (2.0.13):
+    - SSOKit/AppExtension (= 2.0.13)
+  - SSOKit/AppExtension (2.0.13)
+  - ZCharts (0.1.17):
+    - ZCharts/Core (= 0.1.17)
+  - ZCharts/Core (0.1.17)
+
+DEPENDENCIES:
+  - Cosmos (~> 23.0)
+  - Fastis (~> 2.0)
+  - libPhoneNumber-iOS (~> 0.8)
+  - SSOKit (= 2.0.13)
+  - ZCharts (= 0.1.17)
+
+SPEC REPOS:
+  https://git.csez.zohocorpin.com/zoho/zohopodspecs.git:
+    - SSOKit
+  https://git.csez.zohocorpin.com/zohonativecharts/podspecs.git:
+    - ZCharts
+  https://github.com/CocoaPods/Specs.git:
+    - Cosmos
+    - Fastis
+    - JTAppleCalendar
+    - libPhoneNumber-iOS
+    - PrettyCards
+
+SPEC CHECKSUMS:
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  Fastis: 842bc586c7c6639cc3ce16903e67bd7cae689157
+  JTAppleCalendar: 16c6501b22cb27520372c28b0a2e0b12c8d0cd73
+  libPhoneNumber-iOS: 0a32a9525cf8744fe02c5206eb30d571e38f7d75
+  PrettyCards: 2b078f2396a42f7f0c4d6624b875149dcb49d3ed
+  SSOKit: b037ccb19c100163277732d7a4d7fb4f210b69be
+  ZCharts: 2a4c82901e7382e58a53e7142a1e049e715ae358
+
+PODFILE CHECKSUM: b6dcf4bc06448a1b7893c7425ce7c282b9a6405a
+
+COCOAPODS: 1.14.3

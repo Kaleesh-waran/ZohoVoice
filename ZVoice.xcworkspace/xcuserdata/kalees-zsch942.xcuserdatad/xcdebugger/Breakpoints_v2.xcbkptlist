@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6929DC89-9B2D-45F9-BBA1-D3E5B19A15F4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4B30F93-B5D1-46A6-BB3A-5F867398FE58"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZVoice/Contact/ContactApiWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "decodeContactModel(obj:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4B30F93-B5D1-46A6-BB3A-5F867398FE58 - 13ae47394e166f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZVoice.ContactApiWorker.decodeContactModel(obj: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "ZVoice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kalees-zsch942/Desktop/ZVoice/native/ZVoice/Contact/ContactApiWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48">
+               </Location>
+               <Location
+                  uuid = "D4B30F93-B5D1-46A6-BB3A-5F867398FE58 - 13ae47394e166f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZVoice.ContactApiWorker.decodeContactModel(obj: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "ZVoice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kalees-zsch942/Desktop/ZVoice/native/ZVoice/Contact/ContactApiWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD675157-481B-41F0-9930-169FA0BF97A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZVoice/Componets/DropDown/DropDownInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getDataList(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
